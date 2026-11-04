@@ -1,0 +1,2 @@
+# Spreadglass
+Paper-only educational public order-book observatory. BTC/USD, ETH/USD, SOL/USD; Kraken and Bitstamp. Explicit fees and adverse slippage, delayed hypothetical fills, no account connection, API keys or real money. No invented past returns. Paper spread P&L excludes held inventory mark-to-market. Asynchronous REST snapshots cannot prove executable arbitrage. Source methodology is in README.md.
