@@ -1,5 +1,7 @@
 # Spreadglass
 
+Live: https://spreadglass.vercel.app/
+
 A paper-only cross-venue market observatory. Real public BTC/USD, ETH/USD and SOL/USD depth from Kraken and Bitstamp. Original animated venue network, depth bars, cost controls, delayed hypothetical fills, prefunded paper inventories, execution tape and CSV export.
 
 No accounts, API keys, deposits, orders or real money. No invented P&L history. Negative paper trades are allowed so costs are not hidden. Connect explicitly to request prices. Pause stops automatic refresh; books expire after20seconds.
